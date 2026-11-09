@@ -129,7 +129,7 @@ Compare the measurements with the outcome. For example, ask yourself whether the
 
 Open the **3. Parameter search map** tab after making some glitch attempts.
 
-The heatmaps show **results you have actually tested**. They do not reveal an untested winning combination. **Gray cells mean not tested.** Other colors show the observed outcomes: blue for NORMAL, red for RESET, and green for SUCCESS.
+The heatmaps show **results you have actually tested**. Gray cells mean not tested. Other colors show the observed outcomes: **blue for NORMAL, red for RESET, and green for SUCCESS.**
 
 ### Heatmap A — Search the virtual clock cycles
 
@@ -172,34 +172,19 @@ The **Why these rules?** tab explains the simplified model used for clock edges,
 
 Once you have explored the game, scroll to **4. Explain what happened**.
 
-1. Answer the **four multiple-choice questions** about the fault model and glitch parameters. The answer choices can appear in different orders.
-2. Answer the **Prediction** question. The game selects **one scenario from a bank of ten** for the challenge. Read the displayed width, offset, and target operation, then predict **NORMAL**, **RESET**, or **SUCCESS**.
+1. Answer the **four multiple-choice questions** about the fault model and glitch parameters.
+2. Answer the **Prediction** question. The game selects one scenario for the challenge. Read the displayed width, offset, and target operation, then predict **NORMAL**, **RESET**, or **SUCCESS**.
 3. Write a short explanation in **Explain your prediction using the waveform and timing rules**. Explain *why* you expect that outcome, not just which outcome you chose.
 4. Click **Check learning answers** to submit.
 
-After submission, the app shows the correct answers, whether your prediction matched the model's result, and an example explanation for your selected scenario. The written response is **not automatically graded**; it needs instructor or peer review.
+After submission, the app shows the correct answers, whether your prediction matched the model's result, and an example explanation for your selected scenario. 
 
-The automatically graded portion is **out of 5 points**: four conceptual questions plus one prediction. To clear the challenge, you must also have observed at least one **SUCCESS** glitch attempt and earn **5/5** on those checks.
 
 ## 9. Start another challenge
 
 Use **🔄 New challenge / new trigger alignment** in the sidebar if you want to try again.
 
-A new challenge clears the previous attempt history and response, resets the three sliders to zero, and changes the simulated trigger alignment. The assessment questions and prediction scenario may also be reshuffled or reselected. A random choice can occasionally repeat.
-
-If you want to preserve your previous experiments, export the CSV **before** starting over.
-
----
-
-## Quick checklist before you finish
-
-- [ ] I ran a baseline and confirmed that the wrong password was rejected.
-- [ ] I tested different width, offset, and ext_offset values.
-- [ ] I observed and can explain the difference between NORMAL, RESET, and SUCCESS.
-- [ ] I inspected the clock waveform and timing margin.
-- [ ] I used at least one heatmap to compare experimental results.
-- [ ] I found a SUCCESS outcome.
-- [ ] I submitted the conceptual questions, prediction, and written explanation.
+A new challenge clears the previous attempt history and response, resets the three sliders to zero, and changes the simulated trigger alignment. 
 
 ---
 
