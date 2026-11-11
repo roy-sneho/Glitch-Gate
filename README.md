@@ -49,7 +49,7 @@ You can also examine the clock waveform and timing information associated with y
 
 ### Step 5: Explore the Parameter Search Map
 
-Open **3. Parameter search map** to review your experiments.
+Open **Parameter search map** to review your experiments.
 
 The game provides two heatmaps:
 
