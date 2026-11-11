@@ -80,7 +80,5 @@ You can select another incorrect password or click **New challenge / new trigger
 
 ---
 
-**ECE 576 — Hardware Security**
 
-*Glitch Gate is intended for educational use.*
 
