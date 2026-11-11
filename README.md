@@ -12,9 +12,6 @@ Glitch Gate is an interactive, software-based hardware security challenge inspir
 
 Your objective is to experiment with clock-glitch parameters and complete the authentication challenge. You will observe the simulated device's behavior, analyze your experiments, and answer questions about your findings.
 
-## ⏱ Estimated Completion Time
-
-**20–30 minutes**
 
 ## Setup Requirements
 
