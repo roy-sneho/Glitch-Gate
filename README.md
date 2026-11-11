@@ -62,7 +62,7 @@ You may continue experimenting as many times as needed.
 
 ### Step 6: Complete the Learning Assessment
 
-Scroll to **4. Explain what happened**.
+Scroll to **Explain what happened**.
 
 Answer the multiple-choice questions, make your prediction for the provided glitch settings, and write a brief explanation based on your observations.
 
