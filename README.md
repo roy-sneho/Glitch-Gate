@@ -1,6 +1,6 @@
 # ⚡ Glitch Gate
 
-**ECE 576 | Interactive Clock Glitching Challenge**| Estimated Time: 20-30 minutes
+**ECE 576 | Interactive Clock Glitching Challenge | Estimated Time: 20-30 minutes**
 
 ## 🎮 Play the Game
 
