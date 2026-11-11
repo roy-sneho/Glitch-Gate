@@ -1,6 +1,6 @@
 # ⚡ Glitch Gate
 
-### A clock-glitching learning game | ECE 576
+### A clock-glitching learning game | ECE 576 | Estimated Completion Time: 20–30 minutes
 
 ## 🎮 Play the game
 
